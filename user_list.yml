@@ -5,3 +5,5 @@ users:
     group: manager
   - name: dave
     group: developer
+  - name: fred
+    group: developer
